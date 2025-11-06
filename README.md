@@ -1,3 +1,15 @@
+## Project Overview
+
+This project demonstrates a unified NLP pipeline capable of:
+- Summarizing English text
+- Translating the summary into Italian
+- Performing sentiment analysis on the summary
+
+It was built with Hugging Face Transformers and designed to run on Google Colab.  
+The goal was to integrate multiple language models into a single workflow.
+
+
+
 # Unified Language Model Demo
 
 This project demonstrates a unified language model pipeline that performs three tasks using state-of-the-art transformer models:
